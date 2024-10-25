@@ -33,3 +33,4 @@ This project simulates a smart greenhouse system using DOIT ESP32 DEVKIT V1 Boar
 
 ## Breadboard Setup
 
+![Breadboard Setup](./Breadboard_Setup.jpg)
